@@ -6,6 +6,8 @@ In the context of this data-driven modeling project, I engaged with a dataset co
 
 Utilizing a supervised machine learning algorithm, I implemented a Convolutional Neural Network (CNN) to predict book genres based on their covers. The CNN was trained on a dataset of labeled book covers, each label representing the book's genre. During the learning process, the CNN autonomously learned to extract pertinent features from the book cover images to assist in genre prediction.
 
+experimentsoftmaxVGG19 is my worst approch which completely failed. I dont fully know why, but all gets predicted in class 16 but another time i ran it (like seen in my presentation) it was in class 2. I assume it always gives a different class each time i run the model.
+
 ## Fine-Tuning Approach
 
 Aware of the limitations of a CNN without a pre-trained model, I initially set the algorithm to run for two epochs. Promptly, I began experimenting with pre-trained models, fine-tuning them to suit my needs. This approach not only accelerated the process but also markedly improved the accuracy of the predictions.
