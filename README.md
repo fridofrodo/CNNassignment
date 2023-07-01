@@ -1,6 +1,7 @@
 # CNN Assignment: Genre Prediction from Book Covers
 
-any changes i made on the template code is marked vit a "# comment" in the code
+Any changes I made on the template code is marked with a "# comment" in the code.
+
 In the context of this data-driven modeling project, I engaged with a dataset comprising numerous book covers, with the objective of predicting each book's genre. This project significantly enhanced my understanding of Convolutional Neural Networks (CNNs) and neural networks in general.
 
 ## CNN Approach
